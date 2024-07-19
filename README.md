@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123soham-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="123soham-bhatia" /> </p>
 
-- DSA  is a just out of the box 
+- DSA  is  just out of the box thing
 - 📫 How to reach me **bhatiasoham013@gmail.com**
 
 - ⚡ Fun fact **I am a programmer but still funny😎😎**
