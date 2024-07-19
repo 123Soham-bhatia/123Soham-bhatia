@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123soham-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="123soham-bhatia" /> </p>
 
-- btw i am working on MERN stack project
+- DSA  is a just out of the box 
 - 📫 How to reach me **bhatiasoham013@gmail.com**
 
 - ⚡ Fun fact **I am a programmer but still funny😎😎**
