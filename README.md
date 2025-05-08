@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Bhatia</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/nsw6nC7vbXNCYb8sk-OpS6YyT8wss7Hy9zF75uja7r0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS83/ZGUzNzEzOWQwYjRj/MWNlNDA4NjVlNzk5/YjQ0NmMwZTk2M2Ez/ZGQ4ZmI2OGQyMzk3/MDcyMzdjNDA2MDRm/YTNkLzY4NzQ3NDcw/NzMzYTJmMmY2MzY0/NmUyZTY0NzI2OTYy/NjI2MjZjNjUyZTYz/NmY2ZDJmNzU3MzY1/NzI3MzJmMzczMzMw/MzczMDMzMmY3MzYz/NzI2NTY1NmU3MzY4/NmY3NDczMmYzNjM1/MzgzMTMyMzQzMzJm/NjE3NjY1NmU3NDZm/MmU2NzY5NjY" ></img>
 
